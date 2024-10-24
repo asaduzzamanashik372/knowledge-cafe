@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://img.freepik.com/free-photo/top-view-desk-concept-with-coffee_23-2148604932.jpg?ga=GA1.1.1027560239.1711372117&semt=ais_hybrid",
+      "title": "Introduction to Web Development",
+      "author_img": "https://img.freepik.com/free-photo/portrait-smiling-young-man-looking-camera_23-2148148708.jpg?ga=GA1.1.1027560239.1711372117&semt=ais_hybrid",
+      "author": "John Doe",
+      "posted_date": "2024-10-24",
+      "reading_time": 5,
+      "hashtags": ["webdev", "html"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://img.freepik.com/free-photo/top-view-desk-with-copy-space-tags_23-2148285058.jpg?ga=GA1.1.1027560239.1711372117&semt=ais_hybrid",
+      "title": "Mastering CSS for Beginners",
+      "author_img": "https://img.freepik.com/free-photo/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-129416.jpg?ga=GA1.1.1027560239.1711372117&semt=ais_hybrid",
+      "author": "Jane Smith",
+      "posted_date": "2024-09-30",
+      "reading_time": 8,
+      "hashtags": ["css", "frontend"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://img.freepik.com/premium-photo/high-angle-view-laptop-table_1048944-221407.jpg?ga=GA1.1.1027560239.1711372117&semt=ais_hybrid",
+      "title": "JavaScript Tips and Tricks",
+      "author_img": "https://img.freepik.com/premium-photo/backers-personal-testimonial-review-crowdfunding-campaign-they-supported_995578-19399.jpg?ga=GA1.1.1027560239.1711372117&semt=ais_hybrid",
+      "author": "Mike Johnson",
+      "posted_date": "2024-08-15",
+      "reading_time": 10,
+      "hashtags": ["javascript", "coding"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://img.freepik.com/premium-photo/laptop-screen-displays-vibrant-blog-graphic-amidst-desk-setup-with-plants-office-supplies_132358-78253.jpg?ga=GA1.1.1027560239.1711372117&semt=ais_hybrid",
+      "title": "Responsive Web Design Techniques",
+      "author_img": "https://img.freepik.com/premium-photo/managing-user-permissions-roles-ecommerce-platforms_1104763-19809.jpg?ga=GA1.1.1027560239.1711372117&semt=ais_hybrid",
+      "author": "Emily Davis",
+      "posted_date": "2024-07-22",
+      "reading_time": 7,
+      "hashtags": ["responsive", "design"]
+    }
+  ]
